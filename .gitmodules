@@ -7,3 +7,8 @@
 	path = Trust-Code/odoo-brasil
 	url = git@github.com:Trust-Code/odoo-brasil.git
 	branch = 13.0
+
+[submodule "Code-137/odoo-apps"]
+	path = Code-137/odoo-apps
+	url = git@github.com:Code-137/odoo-apps.git
+	branch = 13.0
